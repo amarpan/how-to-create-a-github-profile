@@ -22,8 +22,8 @@
   <a href="https://medium.com/@profpan396">
     <img src="https://img.shields.io/badge/-medium.com/@profpan396-pink?style=flat&logo=medium&logoColor=black">
  </a>
- <a href="https://twitter.com/amarpan396" target="_blank">
-      <img src="https://img.shields.io/badge/-twitter.com/in/amarpan396-skyblue?style=flat&logo=Twitter&logoColor=black">
+ <a href="https://twitter.com/profpan396" target="_blank">
+      <img src="https://img.shields.io/badge/-twitter.com/in/profpan396-skyblue?style=flat&logo=Twitter&logoColor=black">
  </a>
 
  <br>
