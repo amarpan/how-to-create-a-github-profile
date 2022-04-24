@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/-linkedin.com/in/profpan396-midnightblue?style=flat&logo=Linkedin&logoColor=white">
  </a> 
   <a href="https://medium.com/@profpan396">
-    <img src="https://img.shields.io/badge/-medium.com/@profpan396-gold?style=flat&logo=medium">
+    <img src="https://img.shields.io/badge/-medium.com/@profpan396-pink?style=flat&logo=medium">
  </a>
  <a href="https://twitter.com/amarpan396" target="_blank">
       <img src="https://img.shields.io/badge/-twitter.com/in/amarpan396-skyblue?style=flat&logo=Twitter&logoColor=white">
