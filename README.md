@@ -43,8 +43,6 @@
 
  </h3>
 
-Crafting an effective GitHub profile allows you to showcase your best web development projects to employers while still sharing your brand and what you're all about. 
-
-Today, I'll teach you how to create a GitHub repository that displays when your username is clicked and how to spruce it up for maximum employability impact. 
+This tutorial describes how to create a GitHub repository that displays as your GitHub profile and how to spruce it up for maximum employability impact. 
 
 
