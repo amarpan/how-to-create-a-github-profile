@@ -8,10 +8,6 @@
         <img
           src="https://img.shields.io/badge/-profpan396.github.io/portfolio-magenta?style=flat&logo=Blackberry&logoColor=black">
       </a>
-<!-- <a href="mailto:profpan396@gmail.com" target="_blank">
-        <img
-          src="https://img.shields.io/badge/-profpan396.github.io/portfolio-green?style=flat&logo=Gmail&logoColor=red">
-</a> -->
 <a href="mailto:profpan396@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-profpan396@gmail.com-aqua?style=flat&logo=Gmail&logoColor=black">
  </a>
@@ -27,7 +23,7 @@
     <img src="https://img.shields.io/badge/-medium.com/@profpan396-pink?style=flat&logo=medium&logoColor=black">
  </a>
  <a href="https://twitter.com/amarpan396" target="_blank">
-      <img src="https://img.shields.io/badge/-twitter.com/in/amarpan396-skyblue?style=flat&logo=Blackberry&logoColor=black">
+      <img src="https://img.shields.io/badge/-twitter.com/in/amarpan396-skyblue?style=flat&logo=Twitter&logoColor=black">
  </a>
 
  <br>
