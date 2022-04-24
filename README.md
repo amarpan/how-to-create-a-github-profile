@@ -21,7 +21,7 @@
  
 
  <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/profpan396-midnightblue?style=flat&logo=Linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/profpan396-blue?style=flat&logo=Linkedin&logoColor=white">
  </a> 
   <a href="https://medium.com/@profpan396">
     <img src="https://img.shields.io/badge/-medium.com/@profpan396-pink?style=flat&logo=medium">
