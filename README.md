@@ -26,6 +26,8 @@
       <img src="https://img.shields.io/badge/-twitter.com/in/profpan396-skyblue?style=flat&logo=Twitter&logoColor=black">
  </a>
 
+ [![stars - github-profile-writing-tutorial](https://img.shields.io/github/stars/profpan396/github-profile-writing-tutorial?style=social)](https://github.com/profpan396/github-profile-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-writing-tutorial)
+
  <br>
 
  </h3>
