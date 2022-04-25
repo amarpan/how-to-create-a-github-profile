@@ -1,7 +1,7 @@
-<h1 align="center">How to Create and Write a GitHub Profile</h1>
+<h1 align="center" id="title">How to Create and Write a GitHub Profile</h1>
 <!-- <h3 align="center"> :teacher: Written by Professor Pan :teacher: </h3> -->
 
-<h3 align="center">
+<h3 align="center" id="author">
    Written by <a href="https://www.linkedin.com/in/profpan396/">Professor Pan</a><br> 
    <div align="center">
 <a href="https://profpan396.github.io/portfolio" target="_blank">
@@ -28,20 +28,16 @@
 
  <br>
 
- <!-- <a href="https://twitter.com/amarpan396" target="_blank">
-      <img src="https://img.shields.io/badge/-twitter.com/in/amarpan396-skyblue?style=flat&logo=Linkedin&logoColor=white">
- </a> 
-
- <a href="https://www.facebook.com/amarpan396/" target="_blank">
-      <img src="https://img.shields.io/badge/-facebook.com/amarpan396-darkblue?style=flat&logo=Facebook&logoColor=white">
- </a> 
-
- <a href="https://www.instagram.com/amarpan396/" target="_blank">
-      <img src="https://img.shields.io/badge/-instagram.com/amarpan396-hotpink?style=flat&logo=Instagram&logoColor=white">
- </a> 
-    
- </div> -->
-
  </h3>
 
-<p id="intro">This tutorial describes how to create a GitHub repository that displays as your GitHub profile and how to spruce it up for maximum employability impact. </p>
+<p id="intro">This tutorial describes how to create a GitHub repository that displays as your GitHub profile and how add cool ____ features. </p>
+
+Step #1: Create a GitHub repository with the same name as your GitHub username. 
+
+   Example: My GitHub is profpan396, so I would make a repo and also name it profpan396. 
+
+<div align="center"> 
+  <img src="./images/PROFILE_BEFORE_MAKING_REPO.png" width="800">
+</div>
+
+
