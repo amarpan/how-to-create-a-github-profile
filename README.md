@@ -34,3 +34,11 @@
 
 ## Introduction
 Creating a GitHub profile is a great way to show visitors what one is all about as a developer. In this guide, we'll cover how to create a repository that displays as a profile, how to style it appropriately, and how to add advanced tools.
+
+## Create a Profile Repository
+To make a GitHub profile, we must first create a repository with the same name as our GitHub username. 
+
+|      Step      |      Instructions      |      Reference
+|----------------|------------------------|---------------
+|1. Create a new repository | In the upper-right hand corner of the GitHub dashboard: <br>a. Click `+` <br> b. Click `New repository`            | ![](images/ghprofile-new-repo.png)
+
