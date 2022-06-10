@@ -41,4 +41,5 @@ To make a GitHub profile, we must first create a repository with the same name a
 |      Step      |      Instructions      |      Reference
 |----------------|------------------------|---------------
 |1. Create a new repository | In the upper-right hand corner of the GitHub dashboard: <br>a. Click `+` <br> b. Click `New repository`            | ![](images/ghprofile-new-repo.png)
+|2. Name the new repository your GitHub username | c. Under "Repository name", type in your GitHub username. <br><br> For example, if my GitHub username was ubuntufan123, I would type in `ubuntufan123` <br><br> d.
 
