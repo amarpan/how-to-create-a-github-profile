@@ -29,5 +29,5 @@
 
  </h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=profpan396.vim_pyc)
+![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-creation-tutorial)
 </div>
