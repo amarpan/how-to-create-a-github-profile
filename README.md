@@ -31,3 +31,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-creation-tutorial)
 </div>
+
+## Introduction
+Creating a GitHub profile is a great way to show visitors what one is all about as a developer. In this guide, we'll cover how to create a repository that displays as a profile, how to style it appropriately, and how to add advanced tools.
