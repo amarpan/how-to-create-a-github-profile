@@ -32,5 +32,7 @@ To make a GitHub profile, we must first create a repository with the same name a
 We can also choose to add from a variety of add-on tools that display insightful and interesting statistics about our coding history and habits.
 
 | Add-on | Description | Code to Add | Preview 
-|--------|------|-------------|------
-|test | test | test
+|--------|-------------|-------------|--------
+| View Counter | test | test
+| Streak Counter
+| Most Frequentl Languages Used
