@@ -35,4 +35,4 @@ We can also choose to add from a variety of add-on tools that display insightful
 |--------|-------------|-------------|--------
 | View Counter | test | test
 | Streak Counter
-| Most Frequentl Languages Used
+| Most Frequently Used Languagesa
