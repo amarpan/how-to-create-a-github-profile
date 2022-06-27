@@ -31,8 +31,10 @@ To make a GitHub profile, we must first create a repository with the same name a
 ## Advancing Coding Statistic Add-ons
 We can also choose to add from a variety of add-on tools that display insightful and interesting statistics about our coding history and habits.
 
-| Add-on | Description | Code to Add | Preview 
-|--------|-------------|-------------|--------
+**Note**: Take care to replace `<your-github-username>` with your own GitHub username when using the following code snippets and then delete the angle brackets `<>`.   
+
+|   Add-on   |   Description   |   Preview   |   Code to Add 
+|------------|-----------------|-----------------|----------
+| Languages | Lists the most frequently coded in languages by percentage | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profpan396&theme=vue-dark&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats) | ```[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&theme=vue-dark&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)``` | 
 | View Counter | test | test
 | Streak Counter
-| Most Frequently Used Languagesa
