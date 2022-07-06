@@ -31,12 +31,15 @@ To make a GitHub profile, we must first create a repository with the same name a
 ## Advancing Coding Statistic Add-ons
 We can also choose to add from a variety of add-on tools that display insightful and interesting statistics about our coding history and habits.
 
-**Note**: Take care to replace `<your-github-username>` with your own GitHub username when using the following code snippets and then delete the angle brackets `<>`.   
+**Note**: Take care to replace `<your-github-username>` with your own GitHub username when using the following code snippets and then delete the angle brackets `<>`. 
+<br>
+**Note**: Available themes instead of the default of `vue-dark` are also:
 
 |   Add-on   |   Description   |   Preview   |   Code to Add 
 |------------|-----------------|-----------------|----------
 | Activity   | Displays total stars, commits, pull requests, etc. | [![Activity](https://github-readme-stats.vercel.app/api?username=profpan396&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats) | `[![Activity](https://github-readme-stats.vercel.app/api?username=<your-github-username>&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)`
 | Languages  | Lists your most frequently coded in languages by percentage | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profpan396&theme=vue-dark&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats) | `[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&theme=vue-dark&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)` | 
 | View Counter | test | test
+| Repository Highlight | Displays a single repository just as it would look underneath your GitHub profile
 | Streak Counter | Lists your current and longest streak of making at least one daily GitHub commit | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats) | `[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>&theme=vue-dark)](https://git.io/streak-stats)`
 
