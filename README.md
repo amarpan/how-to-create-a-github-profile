@@ -43,4 +43,4 @@ We can also choose to add from a variety of add-on tools that display insightful
 | View Counter | A running counter of how many times your GitHub profile has been visited | ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan) | `![](https://visitor-badge.glitch.me/badge?page_id=<your-github-username>.<repo-name>)`
 
 ## Conclusion
-Today, we learned how to customize our GitHub profiles so visitors can immediately get a sense of our abilities and skillsets. Next step - get creative with the order,layout, and theming to make it unique. 
+Today, we learned how to customize our GitHub profiles so visitors can immediately get a sense of our abilities and skillsets. Next step - get creative with the order, layout, and theming to make it unique. 
