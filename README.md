@@ -38,7 +38,7 @@ In this guide, we'll cover how to create a repository that doubles as a profile 
 |![](images/ghprofile-before-no-profile.png) | ![](images/ghprofile-final-profile.png) 
 
 ## Create a Profile Repository
-To make a GitHub profile, we must first create a repository with the same name as our GitHub username. 
+To make a GitHub profile, you must first create a repository with the same name as your GitHub username. 
 
 |      Step      |      Instructions      |      Reference |
 |----------------|------------------------|---------------
