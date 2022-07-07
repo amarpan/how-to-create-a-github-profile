@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # How to Create a GitHub Profile
 <h3 id="author">
@@ -26,7 +26,7 @@
 
 <!-- Delete above for publication -->
     
- </center>
+ </div>
 
 ## Introduction
 Creating a GitHub profile is a great way to show visitors what you are all about as a developer - what languages and frameworks you know, types of work you are interested in, and general background informaton. 
