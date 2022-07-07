@@ -4,6 +4,7 @@
 <h3 id="author">
    Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></h3> 
 
+<!-- Delete below for publication -->
  <a href="https://profpan396.github.io" target="_blank">
         <img
           src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
@@ -20,6 +21,7 @@
   <a href="https://medium.com/@profpan396">
     <img src="https://img.shields.io/badge/-@profpan396-pink?style=flat&logo=medium&logoColor=black">
  </a>
+ <!-- Delete above for publication -->
  
 ![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-tutorial)
  <br>
