@@ -48,7 +48,7 @@ To make a GitHub profile, we must first create a repository with the same name a
 | 4. Edit our new profile | j. Delete lines 3-6 and the ending `-->` <br><br> k. Add the missing information - think about what important information visitors looking at your code should know <br><br> l. Click the `Preview` tab to see what the new edits will actually look like <br><br> m. When satisfied, click the green `Commit changes` button to finalize the changes  | ![](images/ghprofile-edit-profile.png) ![](images/ghprofile-preview.png)
 | 5. View your new profile | In the upper-right hand corner of the GitHub dashboard: <br><br>n. Click your profile picture <br><br> o. Click `Your profile` <br><br> | ![](images/ghprofile-your-profile.png)
 
-## Advancing Coding Statistic Add-ons
+## Advanced Coding Statistic Add-ons
 We can also choose to add from a variety of add-on tools that display insightful and interesting statistics about our coding history and habits.<br>
 <!-- Convert note to Hugo-type for publication -->
 **Note**: Take care to replace `<your-github-username>` with your own GitHub username when using the following code snippets and then delete the angle brackets `<>`. 
