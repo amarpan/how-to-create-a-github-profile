@@ -1,14 +1,32 @@
-<div align="center">
+<center>
 
 # How to Create a GitHub Profile
-<h3 align="center" id="author">
-   Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a> 
-   <div align="center">
+<h3 id="author">
+   Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></h3> 
 
- </h3>
+ <a href="https://profpan396.github.io" target="_blank">
+        <img
+          src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
+      </a>
+      <br>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-creation-tutorial) -->
-</div>
+ <a href="https://www.github.com/profpan396/" target="_blank">
+        <img
+          src="https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black">
+      </a>
+ <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
+      <img src="https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
+ </a> 
+  <a href="https://medium.com/@profpan396">
+    <img src="https://img.shields.io/badge/-@profpan396-pink?style=flat&logo=medium&logoColor=black">
+ </a>
+ 
+![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-tutorial)
+ <br>
+<!--  <a href="https://discord.com/users/chillylips76#4625" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  -->
+    
+ </center>
+ </center>
 
 ## Introduction
 Creating a GitHub profile is a great way to show visitors what one is all about as a developer - what languages and frameworks one knows, types of work interested in, and general background informaton. In this guide, we'll cover how to create a repository that doubles as a profile and how to add advanced tools that display statistics about your coding history and habits. 
