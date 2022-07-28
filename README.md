@@ -55,8 +55,23 @@ e. Check the `Add a README file` box
 f. Click the green `Create repository` button to make the new repository with all the above settings
 <br>
 ![](images/ghprofile-name-repo.png)
-3. View your new default profile | g. Click the white `View Profile` button on the right side of the page <br><br><br> h. Take a look at your new profile - by default, some placeholder text is inputted. <br><br> i. Click the pencil icon in the top-right hand corner of your new profile to initiate editing |  ![](images/ghprofile-created-profile.png) ![](images/ghprofile-default-profile.png)
-| 4. Edit your new profile | j. Delete lines 3-6 and the ending `-->` <br><br> k. Add the missing information - think about what important information visitors looking at your code should know <br><br> l. Click the `Preview` tab to see what the new edits will actually look like <br><br> m. When satisfied, click the green `Commit changes` button to finalize the changes  | ![](images/ghprofile-edit-profile.png) ![](images/ghprofile-preview.png)
+
+### 3. View your new default profile
+g. Click the white `View Profile` button on the right side of the page
+<br>
+h. Take a look at your new profile - by default, some placeholder text is inputted.
+<br>
+i. Click the pencil icon in the top-right hand corner of your new profile to initiate editing
+<br>
+![](images/ghprofile-created-profile.png)
+![](images/ghprofile-default-profile.png)
+
+### 4. Edit your new profile
+j. Delete lines 3-6 and the ending `-->`
+<br>
+k. Add the missing information - think about what important information visitors looking at your code should know
+<br>
+l. Click the `Preview` tab to see what the new edits will actually look like <br><br> m. When satisfied, click the green `Commit changes` button to finalize the changes  | ![](images/ghprofile-edit-profile.png) ![](images/ghprofile-preview.png)
 | 5. View your new profile | In the upper-right hand corner of the GitHub dashboard: <br><br>n. Click your profile picture <br><br> o. Click `Your profile` <br><br> | ![](images/ghprofile-your-profile.png)
 
 ## Advanced Coding Statistic Add-ons
