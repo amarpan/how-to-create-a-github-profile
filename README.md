@@ -60,3 +60,4 @@ We can also choose to add from a variety of add-on tools that display insightful
 
 ## Conclusion
 Today, we learned how to customize our GitHub profiles so visitors can immediately get a sense of our most useful abilities and skillsets. Next step - get creative with the theming, layout, and order to make your profile uniquely stand out. 
+### ***If you found this tutorial helpful, please consider giving it a :star:
