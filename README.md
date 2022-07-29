@@ -54,7 +54,7 @@ e. Check the `Add a README file` box
 <br>
 f. Click the green `Create repository` button to make the new repository with all the above settings
 <br>
-![](images/ghprofile-name-repo.png)
+![Create new repository](images/ghprofile-name-repo.png)
 
 ### 3. View your new default profile
 g. Click the white `View Profile` button on the right side of the page
@@ -63,8 +63,8 @@ h. Take a look at your new profile - by default, some placeholder text is inputt
 <br>
 i. Click the pencil icon in the top-right hand corner of your new profile to initiate editing
 <br>
-![](images/ghprofile-created-profile.png)
-![](images/ghprofile-default-profile.png)
+![Created profile](images/ghprofile-created-profile.png)
+![Default new created profile](images/ghprofile-default-profile.png)
 
 ### 4. Edit your new profile
 j. Delete lines 3-6 and the ending `-->`
@@ -75,8 +75,8 @@ l. Click the `Preview` tab to see what the new edits will look like
 <br>
 m. When satisfied, click the green `Commit changes` button to finalize the changes
 <br>
-![](images/ghprofile-edit-profile.png)
-![](images/ghprofile-preview.png)
+![Edit Profile](images/ghprofile-edit-profile.png)
+![Preview Edits](images/ghprofile-preview.png)
 
 ### 5. View your new profile
 In the upper-right hand corner of the GitHub dashboard:
@@ -85,7 +85,7 @@ n. Click your profile picture
 <br>
 o. Click `Your profile`
 <br>
-![](images/ghprofile-your-profile.png)
+![View New Profile](images/ghprofile-your-profile.png)
 
 ## Advanced Coding Statistic Add-ons
 We can also choose to add from a variety of add-on tools that display insightful and interesting statistics about our coding history and habits.<br>
