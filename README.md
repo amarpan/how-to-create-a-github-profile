@@ -41,51 +41,45 @@ To make a GitHub profile, you must first create a repository with the same name 
 ### 1. Create a new repository
 In the upper-right hand corner of the GitHub dashboard: 
 <br>
-a. Click `+` <br> b. Click `New repository`
+- a. Click `+`
+- b. Click `New repository`
 <br>
 ![New Repository](images/ghprofile-new-repo.png)
 <br> 
            
 ### 2. Add the details for the new repository
-c. Under "Repository name", type in your GitHub username <br>
+- c. Under "Repository name", type in your GitHub username <br>
 **For example, if my GitHub username is linuxfan123, I would type in `linuxfan123`**
-<br>
-d. Click the `Public` option so all users can see your newly created profile
-<br>
-e. Check the `Add a README file` box
-<br>
-f. Click the green `Create repository` button to make the new repository with all the above settings
+- d. Click the `Public` option so all users can see your newly created profile
+- e. Check the `Add a README file` box
+- f. Click the green `Create repository` button to make the new repository with all the above settings
 <br>
 ![Create new repository](images/ghprofile-name-repo.png)
 
 ### 3. View your new default profile
-g. Click the white `View Profile` button on the right side of the page
-<br>
-h. Take a look at your new profile - by default, some placeholder text is inputted.
-<br>
-i. Click the pencil icon in the top-right hand corner of your new profile to initiate editing
+- g. Click the white `View Profile` button on the right side of the page
+- h. Take a look at your new profile - by default, some placeholder text is inputted.
+- i. Click the pencil icon in the top-right hand corner of your new profile to initiate editing
 <br>
 ![Created profile](images/ghprofile-created-profile.png)
 ![Default new created profile](images/ghprofile-default-profile.png)
 
 ### 4. Edit your new profile
-j. Delete lines 3-6 and the ending `-->`
-<br>
-k. Add the missing information - think about what important information visitors looking at your code should know
-<br>
-l. Click the `Preview` tab to see what the new edits will look like
-<br>
-m. When satisfied, click the green `Commit changes` button to finalize the changes
+- j. Delete lines 3-6 and the ending `-->`
 <br>
 ![Edit Profile](images/ghprofile-edit-profile.png)
+- k. Add the missing information - think about what important information visitors looking at your code should know
+- l. Click the `Preview` tab to see what the new edits will look like
+<br>
 ![Preview Edits](images/ghprofile-preview.png)
+- m. When satisfied, click the green `Commit changes` button to finalize the changes
 
 ### 5. View your new profile
 In the upper-right hand corner of the GitHub dashboard:
 <br>
-n. Click your profile picture
+- n. Click your profile picture
 <br>
-o. Click `Your profile`
+- o. Click `Your profile`
 <br>
 ![View New Profile](images/ghprofile-your-profile.png)
 
