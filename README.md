@@ -103,33 +103,33 @@ A simple graph displaying your daily commits over the last 30 days
 <br>
 `<img src="https://activity-graph.herokuapp.com/graph?username=<your-github-username>&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />`
 
-### Languages
+### Top Languages
 Lists your most frequently coded in languages by percentage
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profpan396&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profpan396&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-`[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)`
+`[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)`
 
 ### Repository Highlight
 Displays a single repository (just as it would look underneath your GitHub profile)
 <br>
 <a href="https://github.com/profpan396/simon-memory-game"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=simon-memory-game&theme=vue-dark" /></a>
 <br>
-`<a href="https://github.com/<your-github-username>/<repo-name>"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=<your-github-username>&repo=<repo-name>&theme=vue-dark" /></a>`
+`<a href="https://github.com/<your-github-username>/<repository-name>"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=<your-github-username>&repo=<repo-name>&theme=vue-dark" /></a>`
 
 ### Streak Counter
 Lists your current and longest streak of making at least one daily GitHub commit
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak Counter](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)
 <br>
-`[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>&theme=vue-dark)](https://git.io/streak-stats)`
+`[![GitHub Streak Counter](https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>&theme=vue-dark)](https://git.io/streak-stats)`
 
-### View Counter
+### Visitor Counter
 A running counter of how many times your GitHub profile has been visited
 <br>
-![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
+![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
 <br>
-`![](https://visitor-badge.glitch.me/badge?page_id=<your-github-username>.<your-github-username>)`
+`![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=<your-github-username>.<your-github-username>)`
 
 ## Conclusion
 Today, we learned how to customize our GitHub profiles so visitors can immediately get a sense of our most useful abilities and skillsets. Next step - get creative with the theming, layout, and order to make your profile uniquely stand out. 
