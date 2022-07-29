@@ -87,6 +87,9 @@ In the upper-right hand corner of the GitHub dashboard:
 We can also choose to add from a variety of add-on tools that display insightful and interesting statistics about our coding history and habits.<br>
 <!-- Convert note to Hugo-type for publication -->
 **Note**: Take care to replace `<your-github-username>` with your own GitHub username when using the following code snippets and then delete the angle brackets `<>`. 
+<!-- {{< note >}}
+Take care to replace `<your-github-username>` with your own GitHub username when using the following code snippets and then delete the angle brackets `<>`. 
+{{< /note >}} -->
 <br>
 
 ### Activity
