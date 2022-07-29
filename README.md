@@ -41,7 +41,7 @@ In the upper-right hand corner of the GitHub dashboard:
 <br>
 a. Click `+` <br> b. Click `New repository`
 <br>
-![](images/ghprofile-new-repo.png)
+![New Repository](images/ghprofile-new-repo.png)
 <br> 
            
 ### 2. Add the details for the new repository
