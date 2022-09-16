@@ -29,10 +29,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-tutorial)
 
 <!-- Delete above for publication -->
+   <div align="center">
+   <h3>***If you find this tutorial helpful, please consider giving it a :star:</h3>
+</div>
     
  </div>
-
-## Introduction
+ 
 ![Final profile preview](images/ghprofile-final-profile.png)
 <br>
 Creating a GitHub profile is a great way to show visitors what you are all about as a developer - what languages and frameworks you know, types of work you are interested in, and general background information. 
@@ -52,39 +54,39 @@ In the upper-right hand corner of the GitHub dashboard:
 <br> 
            
 ### 2. Add the details for the new repository
-- c. Under "Repository name", type in your GitHub username <br>
+- a. Under "Repository name", type in your GitHub username <br>
 **For example, if my GitHub username is linuxfan123, I would type in `linuxfan123`**
-- d. Click the `Public` option so all users can see your newly created profile
-- e. Check the `Add a README file` box
-- f. Click the green `Create repository` button to make the new repository with all the above settings
+- b. Click the `Public` option so all users can see your newly created profile
+- c. Check the `Add a README file` box
+- d. Click the green `Create repository` button to make the new repository with all the above settings
 <br>
 ![Create new repository](images/ghprofile-name-repo.png)
 
 ### 3. View your new default profile
-- g. Click the white `View Profile` button on the right side of the page
-- h. Take a look at your new profile - by default, some placeholder text is inputted.
-- i. Click the pencil icon in the top-right hand corner of your new profile to initiate editing
+- a. Click the white `View Profile` button on the right side of the page
+- b. Take a look at your new profile - by default, some placeholder text is inputted.
+- c. Click the pencil icon in the top-right hand corner of your new profile to initiate editing
 <br>
 ![Created profile](images/ghprofile-created-profile.png)
 ![Default new created profile](images/ghprofile-default-profile.png)
 
 ### 4. Edit your new profile
-- j. Delete lines 3-6 and the ending `-->`
+- a. Delete lines 3-6 and the ending `-->`
 <br>
 ![Edit Profile](images/ghprofile-edit-profile.png)
-- k. Add the missing information - think about what important information visitors looking at your code should know
-- l. Click the `Preview` tab to see what the new edits will look like
+- b. Add the missing information - think about what important information visitors looking at your code should know
+- c. Click the `Preview` tab to see what the new edits will look like
 <br>
 ![Preview Edits](images/ghprofile-preview.png)
-- m. When satisfied, click the green `Commit changes` button to finalize the changes
+- d. When satisfied, click the green `Commit changes` button to finalize the changes
 
 ### 5. View your new profile
 In the upper-right hand corner of the GitHub dashboard:
 <br>
-- n. Click your profile picture
-<br>
-- o. Click `Your profile`
-<br>
+- a. Click your profile picture
+- b. Click `Your Profile`
+
+
 ![View New Profile](images/ghprofile-your-profile.png)
 
 ## Advanced Coding Statistic Add-ons
@@ -140,4 +142,7 @@ A running counter of how many times your GitHub profile has been visited
 
 ## Conclusion
 Today, we learned how to customize our GitHub profiles so visitors can immediately get a sense of our most useful abilities and skillsets. Next step - get creative with the theming, layout, and order to make your profile uniquely stand out. 
-### ***If you found this tutorial helpful, please consider giving it a :star:
+
+<div align="center">
+   <h3>***If you found this tutorial helpful, please consider giving it a :star:</h3>
+</div>
