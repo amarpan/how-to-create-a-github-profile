@@ -85,7 +85,9 @@ In the upper-right hand corner of the GitHub dashboard:
 - b. Add the missing information - think about what important information visitors looking at your code should know
 - c. Click the `Preview` tab to see what the new edits will look like
 <br>
+
 ![Preview Edits](images/ghprofile-preview.png)
+
 - d. When satisfied, click the green `Commit changes` button to finalize the changes
 
 ### 5. View your new profile
