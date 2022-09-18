@@ -1,8 +1,11 @@
 <div align="center">
 
 # How to Create a GitHub Profile
-<h3 id="author">
-   Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></h3> 
+<p id="author">
+   <strong>Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></strong>
+   <br>
+   Technical Writer @ Linode
+</p> 
 
 <!-- Delete below for publication -->
  
