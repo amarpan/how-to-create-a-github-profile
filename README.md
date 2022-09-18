@@ -60,6 +60,7 @@ In the upper-right hand corner of the GitHub dashboard:
 - c. Check the `Add a README file` box
 - d. Click the green `Create repository` button to make the new repository with all the above settings
 <br>
+
 ![Create new repository](images/ghprofile-name-repo.png)
 
 ### 3. View your new default profile
@@ -67,13 +68,17 @@ In the upper-right hand corner of the GitHub dashboard:
 - b. Take a look at your new profile - by default, some placeholder text is inputted.
 - c. Click the pencil icon in the top-right hand corner of your new profile to initiate editing
 <br>
+
 ![Created profile](images/ghprofile-created-profile.png)
+
 ![Default new created profile](images/ghprofile-default-profile.png)
 
 ### 4. Edit your new profile
 - a. Delete lines 3-6 and the ending `-->`
 <br>
+
 ![Edit Profile](images/ghprofile-edit-profile.png)
+
 - b. Add the missing information - think about what important information visitors looking at your code should know
 - c. Click the `Preview` tab to see what the new edits will look like
 <br>
@@ -96,13 +101,15 @@ We can also choose to add from a variety of add-on tools that display insightful
 <!-- {{< note >}}
 Take care to replace `<your-github-username>` with your own GitHub username when using the following code snippets and then delete the angle brackets `<>`. 
 {{< /note >}} -->
-<br>
 
 ### Activity
 Displays total stars, commits, pull requests, etc.
 <br>
+
 [![Activity](https://github-readme-stats.vercel.app/api?username=profpan396&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
+
 `[![Activity](https://github-readme-stats.vercel.app/api?username=<your-github-username>&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)`
 
 ### Commits Graph
@@ -115,6 +122,7 @@ A simple graph displaying your daily commits over the last 30 days
 ### Top Languages
 Lists your most frequently coded in languages by percentage
 <br>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profpan396&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 `[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)`
