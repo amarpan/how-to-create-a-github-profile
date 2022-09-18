@@ -36,6 +36,7 @@
  </div>
  
 ![Final profile preview](images/ghprofile-final-profile.png)
+
 <br>
 Creating a GitHub profile is a great way to show visitors what you are all about as a developer - what languages and frameworks you know, types of work you are interested in, and general background information. 
 <br><br>
@@ -50,7 +51,9 @@ In the upper-right hand corner of the GitHub dashboard:
 - a. Click `+`
 - b. Click `New repository`
 <br>
+
 ![New Repository](images/ghprofile-new-repo.png)
+
 <br> 
            
 ### 2. Add the details for the new repository
