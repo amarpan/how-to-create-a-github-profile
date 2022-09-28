@@ -103,7 +103,7 @@ In the upper-right hand corner of the GitHub dashboard:
 ![View New Profile](images/ghprofile-your-profile.png)
 
 ## Advanced Coding Statistic Add-ons
-You can also choose to add from a variety of add-on tools that display insightful and interesting statistics about our coding history and habits.<br>
+You can also choose to add from a variety of add-on tools that display insightful and interesting statistics about your coding history and habits.<br>
 <!-- Convert note to Hugo-type for publication -->
 **Note**: Take care to replace `<your-github-username>` with your own GitHub username when using the following code snippets and then delete the angle brackets `<>`. 
 <!-- {{< note >}}
