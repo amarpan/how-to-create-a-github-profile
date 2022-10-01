@@ -1,6 +1,8 @@
 <div align="center">
 
 # How to Create a GitHub Profile
+**Written by**
+
 <p id="author">
    <strong>Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></strong>
    <br>
