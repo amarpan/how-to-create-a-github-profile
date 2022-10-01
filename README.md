@@ -159,6 +159,6 @@ Today, we learned how to customize our GitHub profiles so visitors can immediate
 
 <div align="center">
 
-***If you found this tutorial helpful, please consider giving it a :star:
+### ***If you found this tutorial helpful, please consider giving it a :star:
 
 </div>
