@@ -28,8 +28,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-tutorial)
 
 <!-- Delete above for publication -->
-   <div align="center">
-   <h3>***If you find this tutorial helpful, please consider giving it a :star:</h3>
+<div align="center">
+
+### ***If you find this tutorial helpful, please consider giving it a :star:</h3>
+
 </div>
     
  </div>
