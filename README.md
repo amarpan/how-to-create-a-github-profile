@@ -158,5 +158,7 @@ A running counter of how many times your GitHub profile has been visited
 Today, we learned how to customize our GitHub profiles so visitors can immediately get a sense of our most useful abilities and skillsets. Next step - get creative with the theming, layout, and order to make your profile uniquely stand out. 
 
 <div align="center">
-   <h3>***If you found this tutorial helpful, please consider giving it a :star:</h3>
+
+***If you found this tutorial helpful, please consider giving it a :star:
+
 </div>
