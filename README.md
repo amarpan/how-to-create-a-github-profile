@@ -1,7 +1,7 @@
 <div align="center">
 
 # How to Create a GitHub Profile
-**Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br>Technical Writer @ Linode
+**Written by [Professor Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br> Sr. Instructional Associate
 
 <!-- Delete below for publication -->
  
