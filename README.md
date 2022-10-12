@@ -6,32 +6,23 @@
 <!-- Delete below for publication -->
  
 
- <a href="https://profpan396.github.io" target="_blank">
-        <img
-          src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
-      </a>
-      <br>
+ <div id="socialbuttons" align="center">
 
- <a href="https://www.github.com/profpan396/" target="_blank">
-        <img
-          src="https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black">
-      </a>
-      <a href="https://twitter.com/profpan396" target="_blank">
-  <img src="https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black">
-</a>
+  [![Portfolio Badge](https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black)](https://profpan396.github.io)
+  <br>
+  [![GitHub Badge](https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black)](https://www.github.com/profpan396/)
+  [![Twitter Badge](https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/profpan396)
+  [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
+  <br>
+  ![Stars](https://img.shields.io/github/stars/profpan396/how-to-create-a-github-profile?style=social)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-create-a-github-profile )
+  ![Forks](https://img.shields.io/github/forks/profpan396/how-to-create-a-github-profile?style=social)
+  <br>
+  ![Version](https://img.shields.io/badge/version-1.0-black)
 
- <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
-      <img src="https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
- </a> 
-  
- 
-![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-tutorial)
+  ### If you find this tutorial helpful, please consider giving it a :star:
 
-<!-- Delete above for publication -->
-<div align="center">
-
-### ***If you find this tutorial helpful, please consider giving it a :star:</h3>
-
+</div>
 </div>
     
  </div>
