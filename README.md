@@ -150,6 +150,17 @@ Today, we learned how to customize our GitHub profiles so visitors can immediate
 
 <div align="center">
 
-### ***If you found this tutorial helpful, please consider giving it a :star:
+### If you found this tutorial helpful, please consider giving it a :star:
+
+Copyright :copyright: 2021-2022 Pan You Can
+
+## More Tutorials from Professor Pan
+
+ [How to Write a README]([https://github.com/profpan396/how-to-create-a-github-profile](https://github.com/profpan396/how-to-write-a-README))
+
+ [How to Change Themes in Z Shell](https://github.com/profpan396/how-to-change-themes-in-zshell)
+
+ [How to Use the Vim Text Editor in the Terminal](https://github.com/profpan396/how-to-use-the-vim-text-editor)
+
 
 </div>
