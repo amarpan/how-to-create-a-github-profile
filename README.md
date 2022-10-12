@@ -156,7 +156,7 @@ Copyright :copyright: 2021-2022 Pan You Can
 
 ## More Tutorials from Professor Pan
 
- [How to Write a README]([https://github.com/profpan396/how-to-create-a-github-profile](https://github.com/profpan396/how-to-write-a-README))
+ [How to Write a README](https://github.com/profpan396/how-to-write-a-README)
 
  [How to Change Themes in Z Shell](https://github.com/profpan396/how-to-change-themes-in-zshell)
 
