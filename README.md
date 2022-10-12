@@ -141,9 +141,9 @@ Lists your current and longest streak of making at least one daily GitHub commit
 ### Visitor Counter
 A running counter of how many times your GitHub profile has been visited
 <br>
-![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=profpan396.profpan396)
 <br>
-`![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=<your-github-username>.<your-github-username>)`
+`![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=<your-github-username>.<your-github-username>)`
 
 ## Conclusion
 Today, we learned how to customize our GitHub profiles so visitors can immediately get a sense of our most useful abilities and skillsets. Next step - get creative with the theming, layout, and order to make your profile uniquely stand out. 
