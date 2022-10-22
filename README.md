@@ -22,12 +22,6 @@
 
 </div>
 
-<div align="center">
-
-### ***If you find this tutorial helpful, please consider giving it a :star:</h3>
-
-</div>
-    
  </div>
  
 ![Final profile preview](images/ghprofile-final-profile.png)
