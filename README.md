@@ -12,11 +12,11 @@
   <br>
   [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
   <br>
-  ![Stars](https://img.shields.io/github/stars/profpan396/how-to-write-a-readme?style=social)
-  ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-write-a-readme)
-  ![Forks](https://img.shields.io/github/forks/profpan396/how-to-write-a-readme?style=social)
+  ![Stars](https://img.shields.io/github/stars/profpan396/how-to-create-a-github-profile?style=social)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-create-a-github-profile)
+  ![Forks](https://img.shields.io/github/forks/profpan396/how-to-create-a-github-profile?style=social)
   <br>
-  ![Version](https://img.shields.io/badge/version-2.0-gold)
+  ![Version](https://img.shields.io/badge/version-1.0-gold)
 
   ### If you find this tutorial helpful, please give it a :star:
 
