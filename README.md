@@ -6,20 +6,22 @@
 <!-- Delete below for publication -->
  
 
- <a href="https://profpan396.github.io" target="_blank">
-        <img
-          src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
-      </a>
-      <br>
+<div align="center" id="socialbuttons">
 
- <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
-      <img src="https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
- </a> 
-  
- 
-![](https://visitor-badge.glitch.me/badge?page_id=profpan396.github-profile-tutorial)
+  [![Portfolio Badge](https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=)](https://profpan396.github.io)
+  <br>
+  [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
+  <br>
+  ![Stars](https://img.shields.io/github/stars/profpan396/how-to-write-a-readme?style=social)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-write-a-readme)
+  ![Forks](https://img.shields.io/github/forks/profpan396/how-to-write-a-readme?style=social)
+  <br>
+  ![Version](https://img.shields.io/badge/version-2.0-gold)
 
-<!-- Delete above for publication -->
+  ### If you find this tutorial helpful, please give it a :star:
+
+</div>
+
 <div align="center">
 
 ### ***If you find this tutorial helpful, please consider giving it a :star:</h3>
