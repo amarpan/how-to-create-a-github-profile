@@ -152,5 +152,11 @@ You may wish to consult the following resources for additional information on th
 
 ### ***If you found this tutorial helpful, please consider giving it a :star:
    
-   Copyright :copyright: 2021-2022 <br> Pan You Can
+Copyright :copyright: 2021-2022 <br> Pan You Can
+
+[How to Write a Coding Bootcamp README](https://github.com/profpan396/how-to-write-a-README)
+
+[How to Change Z Shell Themes](https://github.com/profpan396/how-to-install-and-configure-zshell)
+
+[How to Use the Command Line Vim Editor](https://github.com/profpan396/how-to-use-the-vim-text-editor/)
 
