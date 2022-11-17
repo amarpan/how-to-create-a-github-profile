@@ -142,12 +142,6 @@ A running counter of how many times your GitHub profile has been visited
 <br>
 `![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=<your-github-username>.<your-github-username>)`
 
-## More Information
-
-You may wish to consult the following resources for additional information on this topic. While these are provided in the hope that they will be useful, please note that we cannot vouch for the accuracy or timeliness of externally hosted materials.
-
-- [Official Vim Documentation](https://www.vim.org/docs.php)
-
 <div align="center">
 
 ### ***If you found this tutorial helpful, please consider giving it a :star:
