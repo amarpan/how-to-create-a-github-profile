@@ -106,12 +106,12 @@ Displays total stars, commits, pull requests, etc.
 
 `[![Activity](https://github-readme-stats.vercel.app/api?username=<your-github-username>&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)`
 
-### Commits Graph
+<!-- ### Commits Graph
 A simple graph displaying your daily commits over the last 30 days
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=profpan396&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 <br>
-`<img src="https://activity-graph.herokuapp.com/graph?username=<your-github-username>&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />`
+`<img src="https://activity-graph.herokuapp.com/graph?username=<your-github-username>&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />` -->
 
 ### Top Languages
 Lists your most frequently coded in languages by percentage
