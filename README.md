@@ -27,7 +27,7 @@
 ![Final profile preview](images/ghprofile-final-profile.png)
 
 <br>
-Creating a GitHub profile is a great way to show visitors what you are all about as a developer - what languages and frameworks you know, types of work you are interested in, and general background information. 
+Creating a GitHub profile is a great way to show visitors what you're all about as a developer - what languages and frameworks you know, types of work you are interested in, and general background information. 
 <br><br>
 In this guide, we'll cover how to create a repository that doubles as a profile and how to add advanced tools that display cool statistics about your coding history and habits. 
 
@@ -143,15 +143,15 @@ A running counter of how many times your GitHub profile has been visited
 <br>
 `![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=<your-github-username>.<your-github-username>)`
 
-## More Information
-
-You may wish to consult the following resources for additional information on this topic. While these are provided in the hope that they will be useful, please note that we cannot vouch for the accuracy or timeliness of externally hosted materials.
-
-- [Official Vim Documentation](https://www.vim.org/docs.php)
-
 <div align="center">
 
 ### ***If you found this tutorial helpful, please consider giving it a :star:
    
-   Copyright :copyright: 2021-2022 <br> Pan You Can
+Copyright :copyright: 2021-2022 <br> Pan You Can
+
+[How to Write a Coding Bootcamp README](https://github.com/profpan396/how-to-write-a-README)
+
+[How to Change Z Shell Themes](https://github.com/profpan396/how-to-install-and-configure-zshell)
+
+[How to Use the Command Line Vim Editor](https://github.com/profpan396/how-to-use-the-vim-text-editor/)
 
