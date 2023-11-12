@@ -1,20 +1,20 @@
 <div align="center">
 
 # How to Create a GitHub Profile
-**Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br> Technical Writer
+**Written by [Amar Panjwani, M.Ed.](https://www.linkedin.com/in/amarpan/)** <br> Technical Writer
 
 <!-- Delete below for publication -->
  
 
 <div align="center" id="socialbuttons">
 
-  [![Portfolio Badge](https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=)](https://profpan396.github.io)
+  [![Portfolio Badge](https://img.shields.io/badge/-amarpan.github.io-magenta?style=flat&logo=)](https://amarpan.github.io)
   <br>
-  [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-@amarpan-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/amarpan/)
   <br>
-  ![Stars](https://img.shields.io/github/stars/profpan396/how-to-create-a-github-profile?style=social)
-  ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-create-a-github-profile)
-  ![Forks](https://img.shields.io/github/forks/profpan396/how-to-create-a-github-profile?style=social)
+  ![Stars](https://img.shields.io/github/stars/amarpan/how-to-create-a-github-profile?style=social)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=amarpan.how-to-create-a-github-profile)
+  ![Forks](https://img.shields.io/github/forks/amarpan/how-to-create-a-github-profile?style=social)
   <br>
   ![Version](https://img.shields.io/badge/version-1.0-gold)
 
@@ -100,7 +100,7 @@ Take care to replace `<your-github-username>` with your own GitHub username when
 Displays total stars, commits, pull requests, etc.
 <br>
 
-[![Activity](https://github-readme-stats.vercel.app/api?username=profpan396&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)
+[![Activity](https://github-readme-stats.vercel.app/api?username=amarpan&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -109,7 +109,7 @@ Displays total stars, commits, pull requests, etc.
 <!-- ### Commits Graph
 A simple graph displaying your daily commits over the last 30 days
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=profpan396&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<img src="https://activity-graph.herokuapp.com/graph?username=amarpan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 <br>
 `<img src="https://activity-graph.herokuapp.com/graph?username=<your-github-username>&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />` -->
 
@@ -117,21 +117,21 @@ A simple graph displaying your daily commits over the last 30 days
 Lists your most frequently coded in languages by percentage
 <br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profpan396&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpan&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 `[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)`
 
 ### Repository Highlight
 Displays a single repository (just as it would look underneath your GitHub profile)
 <br>
-<a href="https://github.com/profpan396/simon-memory-game"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=simon-memory-game&theme=vue-dark" /></a>
+<a href="https://github.com/amarpan/simon-memory-game"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarpan396&repo=simon-memory-game&theme=vue-dark" /></a>
 <br>
 `<a href="https://github.com/<your-github-username>/<repository-name>"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=<your-github-username>&repo=<repo-name>&theme=vue-dark" /></a>`
 
 ### Streak Counter
 Lists your current and longest streak of making at least one daily GitHub commit
 <br>
-[![GitHub Streak Counter](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak Counter](https://github-readme-streak-stats.herokuapp.com/?user=amarpan&theme=vue-dark)](https://git.io/streak-stats)
 <br>
 `[![GitHub Streak Counter](https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>&theme=vue-dark)](https://git.io/streak-stats)`
 
@@ -139,7 +139,7 @@ Lists your current and longest streak of making at least one daily GitHub commit
 A running counter of how many times your GitHub profile has been visited
 <br>
 <!-- ![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan) -->
-![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=profpan396.profpan396)
+![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=amarpan.amarpan)
 <br>
 `![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=<your-github-username>.<your-github-username>)`
 
@@ -149,9 +149,9 @@ A running counter of how many times your GitHub profile has been visited
    
 Copyright :copyright: 2021-2022 <br> Pan You Can
 
-[How to Write a Coding Bootcamp README](https://github.com/profpan396/how-to-write-a-README)
+[How to Write a Coding Bootcamp README](https://github.com/amarpan/how-to-write-a-README)
 
-[How to Change Z Shell Themes](https://github.com/profpan396/how-to-install-and-configure-zshell)
+[How to Change Z Shell Themes](https://github.com/amarpan/how-to-install-and-configure-zshell)
 
-[How to Use the Command Line Vim Editor](https://github.com/profpan396/how-to-use-the-vim-text-editor/)
+[How to Use the Command Line Vim Editor](https://github.com/amarpan/how-to-use-the-vim-text-editor/)
 
