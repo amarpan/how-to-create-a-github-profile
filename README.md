@@ -124,7 +124,7 @@ Lists your most frequently coded in languages by percentage
 ### Repository Highlight
 Displays a single repository (just as it would look underneath your GitHub profile)
 <br>
-<a href="https://github.com/amarpan/simon-memory-game"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarpan396&repo=simon-memory-game&theme=vue-dark" /></a>
+<a href="https://github.com/amarpan/simon-memory-game"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarpan&repo=simon-memory-game&theme=vue-dark" /></a>
 <br>
 `<a href="https://github.com/<your-github-username>/<repository-name>"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=<your-github-username>&repo=<repo-name>&theme=vue-dark" /></a>`
 
@@ -147,7 +147,7 @@ A running counter of how many times your GitHub profile has been visited
 
 ### ***If you found this tutorial helpful, please consider giving it a :star:
    
-Copyright :copyright: 2021-2022 <br> Pan You Can
+Copyright :copyright: 2021-2022
 
 [How to Write a Coding Bootcamp README](https://github.com/amarpan/how-to-write-a-README)
 
