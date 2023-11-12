@@ -1,7 +1,7 @@
 <div align="center">
 
 # How to Create a GitHub Profile
-**Written by [Amar Panjwani, M.Ed.](https://www.linkedin.com/in/amarpan/)** <br> Technical Writer
+**Written by [Amar Panjwani](https://www.linkedin.com/in/amarpan/)** <br> Technical Writer
 
 <!-- Delete below for publication -->
  
