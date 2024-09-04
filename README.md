@@ -10,7 +10,7 @@
 
   [![Portfolio Badge](https://img.shields.io/badge/-amarpan.github.io-magenta?style=flat&logo=)](https://amarpan.github.io)
   <br>
-  [![LinkedIn Badge](https://img.shields.io/badge/-@amarpan-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/amarpan/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-amarpan-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/amarpan/)
   <br>
   ![Stars](https://img.shields.io/github/stars/amarpan/how-to-create-a-github-profile?style=social)
   ![](https://visitor-badge.laobi.icu/badge?page_id=amarpan.how-to-create-a-github-profile)
